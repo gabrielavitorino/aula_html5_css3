@@ -1,0 +1,93 @@
+header.cabec{
+    margin-top: 70px;
+    margin-bottom: 70px;
+    color: rgb(4, 24, 66);
+    font-family: Podkova;
+    text-align: center;
+    font-size: 30px;
+}
+
+.bodyservico img{
+    float: left;
+    margin-right: 20px;
+}
+
+p.texto{
+    text-align: justify;  
+    margin-bottom: 100px;
+}
+
+h2{
+    font-family: Podkova;
+    font-size:30px;
+    color: rgb(231, 124, 62);
+  
+    
+    
+}
+
+body{ /*COMANDA A CLASSE BODY E O BACKGROUND*/
+   background-attachment: fixed;
+    color:#05113a;
+    font-family: Podkova;
+    margin-left: 50px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+p.subt{
+   color:#05113a;
+    font-size: 20px;
+    font-family: Titillium web;
+}
+
+
+.fotocliente{
+   margin-right: 8px;
+   margin-left: 8px;
+}
+
+
+image{
+    margin-bottom: 20px;
+    
+}
+
+.hrdecima{
+    margin-right: 70px;
+}
+
+.links{
+    margin-right: 10px;
+    color:  rgb(4, 24, 66);
+    
+}
+
+.hrdecima{
+    border-color: #05113a;
+}
+
+.imgtime{
+    float: left;
+    margin-right: 20px;
+
+}
+
+.footer{
+    text-align: center;
+    font-family: Titillium web;
+    font-size: 20px;
+}
+
+.hr{
+    border-color: #05113a;
+}
+
+.fade{
+    opacity: 0.5;
+}
+
+.fade:hover{
+    opacity: 1;
+}
